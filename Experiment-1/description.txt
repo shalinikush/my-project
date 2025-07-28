@@ -1,0 +1,9 @@
+While making this HTML form, I learned how to add validation using only HTML5 attributes.
+And then created a form that asks for name, email, and age, and made sure the user can’t submit wrong data.
+For the name field, I learned to use the pattern attribute with a regular expression [A-Za-z\s]+ so that it only accepts letters and spaces.
+For the email field, I used type="email" which automatically checks if the email format is correct.
+For the age field, I used type="number" with min="1" and max="99" to limit the age between 1 and 99.
+I also added the required attribute so that none of these fields can be left empty.
+Also after this i have learnt how to use github and how to commit or save the project there in repository also. 
+I also learned how to use GitHub to upload and share my code.
+I created a repository on GitHub and pushed my HTML file there.
