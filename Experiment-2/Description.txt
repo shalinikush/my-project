@@ -1,0 +1,13 @@
+This is my Experiment Responsive Banking UI with Deposit/Withdrawal Buttons and Balance Display
+I used the btn class for the Deposit and Withdraw buttons.
+Added a box  to show the balance that is:
+A Deposit button whish is in green colour.
+A Withdraw button which is in red colour.
+
+Then used CSS class named .btn to style both buttons:
+Made them full width
+Added padding and margin
+Changed cursor to pointer on hover
+css kept background in white, Justified content on center and kept the cursor as pointer.
+The design is responsive, so it looks good on desktop and mobile screens.
+
